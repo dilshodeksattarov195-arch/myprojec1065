@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "searchfalidate",
+        "uuid": 2313180,
+        "checksum": "chnl3o"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
